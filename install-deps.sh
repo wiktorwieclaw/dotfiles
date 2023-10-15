@@ -37,6 +37,13 @@ packages=(
     slurp
     # bluetooth manager
     blueman
+    # authentication agent that pop up a window that ask for a password
+    polkit-kde-agent
+    # qt wayland support
+    qt5-wayland
+    qt6-wayland
+    # opening file pickers, screen sharing etc.
+    xdg-desktop-portal-hyprland
 )
 
 paru -S ${packages[@]} 

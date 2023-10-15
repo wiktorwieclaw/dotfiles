@@ -63,7 +63,6 @@ tooltip {
     margin-bottom: 3px;
     margin-right: 10px;
     margin-left: 10px;
-    border: 1px solid #181825;
     border-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.116) 2 2 5 2px;
 }
@@ -85,8 +84,6 @@ tooltip {
 
 #custom-updates {
     background: #f5c2e7;
-    border-left: 0px;
-    border-right: 0px;
 }
 
 #window {
@@ -104,20 +101,14 @@ window#waybar.empty #window {
 
 #clock {
     background: #f9e2af;
-    border-radius: 15px;
-    margin-left: 10px;
 }
 
 #network {
     background: #fab387;
-    border-left: 0px;
-    border-right: 0px;
 }
 
 #pulseaudio {
     background: #89b4fa;
-    border-left: 0px;
-    border-right: 0px;
 }
 
 #battery {
@@ -127,6 +118,4 @@ window#waybar.empty #window {
 
 #backlight {
     background: #cba6f7;
-    border-left: 0px;
-    border-right: 0px;
 }
