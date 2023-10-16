@@ -2,10 +2,11 @@
 
 ![screenshot](screenshot.png)
 
+- **theme**: catppuccin mocha
 - **os**: arch linux
 - **window manager**: hyprland
+- **status bar**: waybar 
 - **terminal**: kitty
-- **theme**: catppuccin mocha
 
 # Credits
 Based on:
